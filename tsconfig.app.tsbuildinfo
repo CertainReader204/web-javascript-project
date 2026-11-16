@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/gamecard.tsx","./src/components/gameform.tsx","./src/components/gamelist.tsx","./src/hooks/usegames.ts","./src/types/game.ts","./src/utils/storage.ts"],"version":"5.9.3"}
